@@ -1,0 +1,422 @@
+/* Alibaba Fonts Configuration */
+
+/* ============================================================
+   Alibaba Sans - Main Western font (supports Latin characters)
+   ============================================================ */
+
+/* Alibaba Sans - Regular */
+@font-face {
+  font-family: "Alibaba Sans";
+  src: url("./AlibabaSans/AlibabaSans-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Alibaba Sans - Light */
+@font-face {
+  font-family: "Alibaba Sans";
+  src: url("./AlibabaSans/AlibabaSans-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Alibaba Sans - Medium */
+@font-face {
+  font-family: "Alibaba Sans";
+  src: url("./AlibabaSans/AlibabaSans-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Alibaba Sans - Bold */
+@font-face {
+  font-family: "Alibaba Sans";
+  src: url("./AlibabaSans/AlibabaSans-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Alibaba Sans - Heavy */
+@font-face {
+  font-family: "Alibaba Sans";
+  src: url("./AlibabaSans/AlibabaSans-Heavy.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Alibaba Sans - Black */
+@font-face {
+  font-family: "Alibaba Sans";
+  src: url("./AlibabaSans/AlibabaSans-Black.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Alibaba Sans - Italic Variants */
+@font-face {
+  font-family: "Alibaba Sans";
+  src: url("./AlibabaSans/AlibabaSans-Italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alibaba Sans";
+  src: url("./AlibabaSans/AlibabaSans-LightItalic.woff2") format("woff2");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alibaba Sans";
+  src: url("./AlibabaSans/AlibabaSans-MediumItalic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alibaba Sans";
+  src: url("./AlibabaSans/AlibabaSans-BoldItalic.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alibaba Sans";
+  src: url("./AlibabaSans/AlibabaSans-HeavyItalic.woff2") format("woff2");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* ============================================================
+   Alibaba PuHuiTi - PuHuiTi font (Chinese monospace font)
+   ============================================================ */
+
+@font-face {
+  font-family: "Alibaba PuHuiTi";
+  src: url("./AlibabaPuHuiTi/AlibabaPuHuiTi-3-35-Thin.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alibaba PuHuiTi";
+  src: url("./AlibabaPuHuiTi/AlibabaPuHuiTi-3-45-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alibaba PuHuiTi";
+  src: url("./AlibabaPuHuiTi/AlibabaPuHuiTi-3-55-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alibaba PuHuiTi";
+  src: url("./AlibabaPuHuiTi/AlibabaPuHuiTi-3-65-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alibaba PuHuiTi";
+  src: url("./AlibabaPuHuiTi/AlibabaPuHuiTi-3-75-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alibaba PuHuiTi";
+  src: url("./AlibabaPuHuiTi/AlibabaPuHuiTi-3-85-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alibaba PuHuiTi";
+  src: url("./AlibabaPuHuiTi/AlibabaPuHuiTi-3-95-ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alibaba PuHuiTi";
+  src: url("./AlibabaPuHuiTi/AlibabaPuHuiTi-3-105-Heavy.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alibaba PuHuiTi";
+  src: url("./AlibabaPuHuiTi/AlibabaPuHuiTi-3-115-Black.woff2") format("woff2");
+  font-weight: 950;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ============================================================
+   Alibaba Sans JP - Japanese font
+   ============================================================ */
+
+@font-face {
+  font-family: "Alibaba Sans JP";
+  src: url("./AlibabaSansJP/AlibabaSansJP-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alibaba Sans JP";
+  src: url("./AlibabaSansJP/AlibabaSansJP-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alibaba Sans JP";
+  src: url("./AlibabaSansJP/AlibabaSansJP-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ============================================================
+   Alibaba Sans KR - Korean font
+   ============================================================ */
+
+@font-face {
+  font-family: "Alibaba Sans KR";
+  src: url("./AlibabaSansKR/AlibabaSansKR-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alibaba Sans KR";
+  src: url("./AlibabaSansKR/AlibabaSansKR-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alibaba Sans KR";
+  src: url("./AlibabaSansKR/AlibabaSansKR-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ============================================================
+   Alibaba Sans TC - Traditional Chinese font
+   ============================================================ */
+
+/* TC font number encoding corresponds to:
+   45 = Light (300)
+   55 = Regular (400)
+   75 = Bold (700)
+   95 = ExtraBold (800)
+*/
+
+@font-face {
+  font-family: "Alibaba Sans TC";
+  src: url("./AlibabaSansTC/AlibabaSansTC-45.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alibaba Sans TC";
+  src: url("./AlibabaSansTC/AlibabaSansTC-55.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alibaba Sans TC";
+  src: url("./AlibabaSansTC/AlibabaSansTC-75.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alibaba Sans TC";
+  src: url("./AlibabaSansTC/AlibabaSansTC-95.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ============================================================
+   Maple Mono - Monospace font (for code, terminal, etc.)
+   ============================================================ */
+
+@font-face {
+  font-family: "Maple Mono";
+  src: url("./MapleMono/MapleMono-Thin.ttf.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Maple Mono";
+  src: url("./MapleMono/MapleMono-ThinItalic.ttf.woff2") format("woff2");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Maple Mono";
+  src: url("./MapleMono/MapleMono-ExtraLight.ttf.woff2") format("woff2");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Maple Mono";
+  src: url("./MapleMono/MapleMono-ExtraLightItalic.ttf.woff2") format("woff2");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Maple Mono";
+  src: url("./MapleMono/MapleMono-Light.ttf.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Maple Mono";
+  src: url("./MapleMono/MapleMono-LightItalic.ttf.woff2") format("woff2");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Maple Mono";
+  src: url("./MapleMono/MapleMono-Regular.ttf.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Maple Mono";
+  src: url("./MapleMono/MapleMono-Italic.ttf.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Maple Mono";
+  src: url("./MapleMono/MapleMono-Medium.ttf.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Maple Mono";
+  src: url("./MapleMono/MapleMono-MediumItalic.ttf.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Maple Mono";
+  src: url("./MapleMono/MapleMono-SemiBold.ttf.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Maple Mono";
+  src: url("./MapleMono/MapleMono-SemiBoldItalic.ttf.woff2") format("woff2");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Maple Mono";
+  src: url("./MapleMono/MapleMono-Bold.ttf.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Maple Mono";
+  src: url("./MapleMono/MapleMono-BoldItalic.ttf.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Maple Mono";
+  src: url("./MapleMono/MapleMono-ExtraBold.ttf.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Maple Mono";
+  src: url("./MapleMono/MapleMono-ExtraBoldItalic.ttf.woff2") format("woff2");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* ============================================================
+   Font Usage Notes:
+   
+   1. Alibaba Sans - For Western languages (English, numbers, etc.)
+   2. Alibaba PuHuiTi - For Chinese content (recommended for body text)
+   3. Alibaba Sans JP - For Japanese content
+   4. Alibaba Sans KR - For Korean content
+   5. Alibaba Sans TC - For traditional Chinese content
+   6. Maple Mono - For code, terminal, and monospace text display
+   
+   Example usage:
+   - Body text: font-family: 'Alibaba PuHuiTi', 'Alibaba Sans', sans-serif;
+   - Code: font-family: 'Maple Mono', 'Consolas', 'Monaco', monospace;
+   ============================================================ */
