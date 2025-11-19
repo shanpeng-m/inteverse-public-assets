@@ -1,0 +1,1 @@
+# inteverse-public-assets
